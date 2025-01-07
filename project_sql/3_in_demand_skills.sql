@@ -16,7 +16,7 @@ with demanded_skills as (
     on demanded_skills.skill_id=sk.skill_id
     group by sk.skills
     order by count desc
-    limit 10
+    limit 5
 
 
 
@@ -41,26 +41,6 @@ with demanded_skills as (
   {
     "skills": "power bi",
     "count": "39468"
-  },
-  {
-    "skills": "r",
-    "count": "30075"
-  },
-  {
-    "skills": "sas",
-    "count": "28068"
-  },
-  {
-    "skills": "powerpoint",
-    "count": "13848"
-  },
-  {
-    "skills": "word",
-    "count": "13591"
-  },
-  {
-    "skills": "sap",
-    "count": "11297"
   }
 ]
 */
