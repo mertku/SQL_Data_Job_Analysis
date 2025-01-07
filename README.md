@@ -54,6 +54,7 @@ SELECT  name,
 - **Company Highlights:** Volt.io offers the highest salary, while companies like Flink, Wolt, and Spendesk maintain competitive averages for similar positions.
 
 ![Top Paying Roles](/assets/toppayingroles.png)
+
 *Bar graph visualizing the salary for the top paying data analyst roles*
 ### 2. Skills for Top Paying Jobs
 To understand what skills are required for the top-paying jobs, I joined the job postings table with the skills data table, providing insights into what employers value for high-compensation roles.
@@ -85,6 +86,7 @@ select  top_paying.name,
 -  **Python and R** are both present, showing that programming skills are valued, especially Python. Go and Matlab appear less frequently.
 
 ![Required Skills For Top Paying Roles](/assets/requiredskills.png)
+
 *Bar graph visualizing the count of skills for the top paying data analysts roles in Berlin.*
 ### 3. In-Demand Skills for Data Analysts
 
