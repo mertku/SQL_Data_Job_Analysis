@@ -12,7 +12,7 @@ Diving into data job market ! In this project , i wanted to explore top paying j
 
 Here are my  SQL queries for the project : [Data Job Analysis](/project_sql/)
 
-Data i use hails from [Luke Barousse](https://lukebarousse.com/sql) , which they scrape job postings  from Google's search results for different data roles. 
+The data used in this project originates from [Luke Barousse](https://lukebarousse.com/sql), who scraped job postings from Google's search results for various data-related roles.
 
 # Tools I Used
 For my deep dive into the data analyst job market, I used several key tools:
